@@ -1,0 +1,6 @@
+build/
+ElectroMart
+*.o
+inventory.txt
+bills.txt
+.DS_Store
